@@ -22,7 +22,7 @@ const pathname = usePathname();
     <nav className={[classes.header, noHeaderFooterUrls.includes(pathname) && classes.hide].filter(Boolean).join(' ')}>
         <Gutter className={classes.wrap}>
             <Link href="/">
-                <Image src='tradeoff\public\assets\images\logo-black.svg' alt='tradeoff_logo' width={170} height={50}/>
+                <Image src='assets/images/logo-black.svg' alt='tradeoff_logo' width={170} height={50}/>
             </Link>
 
             <HeaderNav header={header} />
