@@ -40,8 +40,6 @@ We would like to thank the hackathon organizers and all contributors for their s
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [your-email@example.com].
+For any inquiries or feedback, please contact us at ohm.patel48@gmail.com, .
 
----
 
-We hope this project helps streamline the process of finding and booking cargo spaces for exporters. Happy shipping!
