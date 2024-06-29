@@ -38,11 +38,11 @@ Welcome to the Traders Management System, a full-stack application developed for
 
 We extend our heartfelt gratitude to everyone who contributed to the development and success of the Traders Management System project. This project would not have been possible without the collective efforts, support, and guidance from various individuals and organizations.
 
-Hackathon Organizers
-Thank you to the organizers of the hackathon for providing a platform to innovate, collaborate, and showcase our skills. Your efforts in coordinating this event and creating a vibrant community of developers are greatly appreciated.
+**Hackathon Organizers**- 
+Thank you to the odoo for providing a platform to innovate, collaborate, and showcase our skills. Your efforts in coordinating this event and creating a vibrant community of developers are greatly appreciated.
 
-Mentors and Advisors
-We are immensely grateful to our mentors and advisors who provided invaluable guidance, technical support, and encouragement throughout the project. Your expertise and insights were crucial in navigating challenges and enhancing the quality of our work.
+**Mentors and Advisors**- 
+We are immensely grateful to Mr. Akshat Trivedi who provided invaluable guidance, technical support, and encouragement throughout the project. Your expertise and insights were crucial in navigating challenges and enhancing the quality of our work.
 
 ## Contact
 
