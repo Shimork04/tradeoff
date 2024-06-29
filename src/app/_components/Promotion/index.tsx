@@ -40,11 +40,11 @@ const Promotion = () => {
   return (
     <section className={classes.promotion}>
       <div className={classes.textBox}>
-        <h3 className={classes.title}>Deals of the Month</h3>
+        <h3 className={classes.title}><b>PRE-BOOKING DEALS</b></h3>
         <p>
-          Get ready for a shopping experience like never before with our Deals of the Month! Every
-          purchase comes with exclusive perks and offers, making this month a celebration of savvy
-          choices and amazing deals. Don't miss out! 🎁🛒
+          Save upto 5% more, on Pre-Booking of Fully-loaded Containers 
+          and Half - Loaded Containers. Offer Specific for ICPC registered Traders. 
+          T&C Apply.
         </p>
 
         <ul className={classes.stats}>

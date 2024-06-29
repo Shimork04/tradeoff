@@ -15,7 +15,7 @@ const Categories = ({ categories }: { categories: Category[] }) => {
   return (
     <section className={classes.container}>
       <div className={classes.titleWrapper}>
-        <h3>Shop by Categories</h3>
+        <h3><b>SEARCH BY CATEGORIES</b></h3>
         <Link href="/products">Show All</Link>
       </div>
 

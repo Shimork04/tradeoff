@@ -6,8 +6,8 @@ import { PAGE, PAGES } from '../_graphql/pages'
 import { PRODUCT } from '../_graphql/products'
 import { GRAPHQL_API_URL } from './shared'
 import { payloadToken } from './token'
-import Categories from '../../payload/collections/Categories'
-import { CATEGORIES } from '../_graphql/categories'
+// import Categories from '../../payload/collections/Categories'
+// import { CATEGORIES } from '../_graphql/categories'
 
 const queryMap = {
   pages: {
@@ -22,10 +22,6 @@ const queryMap = {
     query: ORDER,
     key: 'Orders',
   },
-  categories: {
-    query: CATEGORIES,
-    key: 'Categories',
-  }
 }
 
 export const fetchDoc = async <T>(args: {

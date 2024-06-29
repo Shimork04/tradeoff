@@ -25,7 +25,7 @@ import Promotion from '../../_components/Promotion'
 
 import classes from './index.module.scss'
 
-export default async function Page({ params: { slug = 'home' } }) {
+export default async function Page1({ params: { slug = 'home' } }) {
   const { isEnabled: isDraftMode } = draftMode()
 
   let page: Page | null = null
