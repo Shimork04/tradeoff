@@ -46,6 +46,6 @@ We are immensely grateful to Mr. Akshat Trivedi who provided invaluable guidance
 
 ## Contact
 
-For any inquiries or feedback, please contact us at ohm.patel48@gmail.com, .
+For any inquiries or feedback, please contact us at mauryashivam1947@gmail.com .
 
 
